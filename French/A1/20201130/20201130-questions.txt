@@ -1,0 +1,40 @@
+1 - l'aéroport
+2 - l'arrêt de bus
+3 - ticket de bus
+4 - station
+5 - gare
+6 - billet
+7 - à
+8 - descend
+9 - en
+
+---------------------------------------------------------------------------------------
+
+Routine
+
+Pt-BR
+
+Pela manhã eu acordo entre 8 e 8:30 horas. Tomo um banho e depois preparo o meu café às 9 horas com omeletes e um café moído na hora.
+Geralmente escuto um programa de humor no rádio enquanto tomo meu café.
+Após tomar meu café eu escovo os meus dentes e eu ligo o meu computador para participar da primeira reunião do dia às 9:30.
+Eu trabalho até o meio-dia e começo a preparar o meu almoço. Durante o almoço eu também costumo assitir algum video no youtube sobre algum programa que eu goste.
+Após o almoço eu preparo um café ou um chimarrão e começo a trabalhar por volta das 13 horas.
+Às 17:30 eu geralmente paro de trabalhar e todas as segundas e quartas eu inicio o meu curso de Francês.
+Nos dias que eu não tenho curso eu costumo ler um pouco ou assistir uma série ou filme caso eu não precise ir ao supermercado.
+Algumas vezes eu faço uma vídeochamada para algum familiar, com meus amigos sempre falo por mensagem.
+Por volta das 20:30 eu preparo o jantar e já deixo algo preparado para o almoço do outro dia.
+Antes de dormir eu leio um pouco e vejo alguma bobagem ou meme no celular.
+
+
+Fr
+
+Le matin, je me réveille entre 8h et 8h30. Je prends une douche puis je prépare mon petit-déjeuner à 9 heures avec une omelette et du café fraîchement moulu.
+Pendant mon petit-déjeuner, j'écoute habituellement un programme d'humour à la radio.
+Après mon petit-déjeuner, je me brosse les dents et j'allume mon ordinateur pour participer à la première réunion de la journée à 9h30.
+Je travaille jusqu'à midi et commence à préparer mon déjeuner. Pendant le déjeuner, je regarde aussi généralement une vidéo sur youtube sur un programme que j'aime.
+Après le déjeuner, je prépare un café ou une chimarrão et commence à travailler vers 13 heures.
+À 17h30, j'arrête généralement de travailler et tous les lundis et mercredis, je commence mon cours de français.
+Les jours où je n'ai pas de cours, j'ai l'habitude de lire un peu ou de regarder une série ou un film, si je ne dois pas faire les courses.
+Parfois, je passe un appel vidéo à un membre de ma famille, avec mes amis je parle toujours par message.
+Vers 20h30, je prépare le dîner et je laisse déjà quelque chose de préparé pour le déjeuner d'un autre jour.
+Avant de me coucher, je lis un peu et je regarde des bêtises ou des mèmes sur le téléphone.

@@ -1,0 +1,120 @@
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Dimanche
+
+en haut				- acima
+en bas				- abaixo
+à gauche			- à esquerda
+à droite			- à direita
+
+Jamais				- Jamais
+De Temps en temps 	- De tempos em tempos
+Souvent				- Frequentemente
+Tous les lundis		- Toda segunda-feira
+Tous les week-ends	- Todas as semanas
+Tout les semaine	- Toda a semana
+Tout le temps		- Todo o tempo
+Toujours			- Todo dia
+
+Il s'apelle James
+Il à 63 ans
+Il est marié et il à trois enfants
+Il est Canadienne
+Il habit à Toronto au Canada
+Il est Journaliste
+Il aime le curling et la pêche
+
+-------------------------------------------------------------------------------------------------
+			|	ÊTRE	|	AVOIR	|	ALLER	|	PARLER		|	CHANTER		|	MANGER		|
+je			|	suis	|	j'ai	|	vais	|	parle		|	chante		|	mange		|
+tu			|	es		|	as		|	vas		|	parles		|	chantes		|	manges		|
+il/elle/on 	|	est		|	a		|	va		|	parle		|	chante		|	mange		|
+nous		|	sommes	|	avons	|	allons	|	parlons		|	chantons	|	mangeons	|
+vous		|	êtes	|	avez	|	allez	|	parlez		|	chantez		|	mangez		|
+ils/elles	|	sont	|	ont		|	vont	|	parlent		|	chantent	|	mangent		|
+			|			|			|			|				|				|				|
+-------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+			|	FAIRE	|	REVENIR		|	COMPRENDRE	|	APPARTENIR		|	SENTIR	|	SORTIR	|
+je			|	fais	|	reviens		|	comprends	|	appartiens		|	sens	|	sors	|
+tu			|	fais	|	reviens		|	comprends	|	appartiens		|	sens	|	sors	|
+il/elle/on 	|	fait	|	revient		|	comprendt	|	appartient		|	sent	|	sort	|
+nous		|	faisons	|	revenons	|	comprenons	|	appartenons		|	sentons	|	sortons	|
+vous		|	faites	|	revenez		|	comprenez	|	appartenez		|	sentez	|	sortez	|
+ils/elles	|	font	|	reviennent	|	comprennent	|	appartiennent	|	sentent	|	sortent	|
+			|			|				|				|					|			|			|
+-----------------------------------------------------------------------------------------------------
+
+Je suis	chinois
+J'étudie une langue bizarre
+Je parle anglais
+Je travaille dans une usine
+J'ai un ordinateur
+Je n'ai pas de voiture
+Je ne suis pas beau
+J'aime les grandes villes
+Je fais	du vélo
+J'habite avec ma famille
+Je déteste la mode
+
+quand est-ce que tu es né?
+quelle est ta date de naissance?
+
+- Le Matin
+8h30 - Le matin, je me réveille 8h30 e je prépare en omelette pour le petit déjeuner.
+Je bois un café et puis j'allume mon ordinateur.
+9h30 - C'est ma première réunion de travail, généralement jusqu'à 10 hour.
+12h - Je prépare mon déjeuner et regarde une vidéo sur youtube pendant le déjeuner.
+
+- Le Soir
+17h - Je termine mon horaire de travail et je lis un livre ou je joue.
+19h30 - Je commence à préparer mon dîner et je ouvre une bière ou un vin.
+
+pai			- père
+mãe			- mère
+filho		- fils
+filha		- fille
+irmão		- frère
+irmã		- sœur
+tio			- oncle
+tia			- tante
+avô			- Grand-père
+avó			- Grand-mère
+sobrinho	- neveu
+sobrinha	- nièce
+cunhado		- beau-frère
+cunhada		- belle-soeur
+genro		- beau fils
+nora		- belle-fille
+sogro		- beau-père
+sogra		- belle-mère
+primo		- cousin
+prima		- cousin
+neto		- petit enfant
+neta		- petite fille
+
+mon		ma		mes
+ton		ta		tes
+son		sa		ses
+notre	notre	nos
+votre	votre	vos
+leur	leur	leurs
+
+Eu vou ao Brasil			- Je vais au Brésil
+Eu vim do Brasil			- Je viens du Brésil
+Eu vou à França				- Je vais en France
+Eu vim da França			- Je viens de France
+Eu vou aos Estados Unidos	- Je vais aux États-Unis
+Eu vim dos Estados Unidos	- Je viens des États-Unis
+
+Nord 	- Norte
+Sud 	- Sul
+Est 	- Leste
+Ouest	- Oeste
+
+

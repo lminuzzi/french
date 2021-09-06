@@ -1,0 +1,19 @@
+Vouloir		- Querer
+Payer		- Pagar
+Vendre		- Vender
+Prendre		- Levar/Pegar
+Boire		- Tomar
+Devoir		- Dever. ter que
+Venir		- Vir
+Pouvoir		- Poder
+
+-----------------------------------------------------------------------------------
+
+Nord 	- Norte
+Sud 	- Sul
+Est 	- Leste
+Ouest	- Oeste
+
+La Flandre
+La Wallonie
+Bruxelles-Capitale

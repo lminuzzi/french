@@ -1,0 +1,24 @@
+Il fait 14 degr
+J'ai visité Floralia.
+nettoyer = faire le ménage
+passer l'aspirateur
+nettoyer les fenêtres
+J'ai fait une promenade dans le bois / la forêt
+Il va jouer au football
+
+--------------------------------------------------
+
+Sujeit      Verbe
+------      -----
+Je          entrer          - Je suis entré
+Tu          lire            - Tu as lu
+Elle        offrir          - Elle a offert
+Nous        attendre        - Nous avons attendu
+Vous        se promener     - Vous êtes promenés
+Ils         se laver        - Ils se sont lavés
+Je          sortir          - Je suis sortie
+Tu          courtir         - Tu as couru
+Il          se coucher      - Il s'est couché
+Nous        rester          - Nous sommes restés
+Vous        boire           - Vous avez bu
+Elles       se repouser     - Elles se sont reposés
